@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="800.0"
+     height="600.0" viewport="0 0 800 600" stroke-width="1.0" stroke="#000000"
+     fill="none">
+  <g id="Screen 1">
+    <polygon id="P8 Panel" points="0,0,320,0,320,160,0,160"/>
+    <polygon id="P5 Left" points="0,170,192,170,192,490,0,490"/>
+    <polygon id="P5 Right" points="200,170,392,170,392,490,200,490"/>
+    <polygon id="P3.91 A" points="400,0,592,0,592,192,400,192"/>
+    <polygon id="P3.91 D" points="600,0,792,0,792,192,600,192"/>
+    <polygon id="P3.91 B" points="400,200,592,200,592,392,400,392"/>
+    <polygon id="P3.91 E" points="600,200,792,200,792,392,600,392"/>
+    <polygon id="P3.91 C" points="400,400,592,400,592,592,400,592"/>
+    <polygon id="P3.91 F" points="600,400,792,400,792,592,600,592"/>
+  </g>
+</svg>
