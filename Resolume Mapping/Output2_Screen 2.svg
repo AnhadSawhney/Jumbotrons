@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="2400.0"
+     height="550.0" viewport="0 0 2400 550" stroke-width="1.0" stroke="#000000"
+     fill="none">
+  <g id="Screen 2">
+    <polygon id="P8 Panel Right 2" points="1622.98,1.36572,2042.94,1.36572,2042.94,419.962,1622.98,419.962"/>
+    <polygon id="P8 Panel Left 2" points="374.081,2.96906e-06,794.043,2.96906e-06,794.043,419.962,374.081,419.962"/>
+    <polygon id="P5 Left 2" points="0,1.36581,321.374,1.36571,321.374,526.058,0,526.058"/>
+    <polygon id="P5 Right 2" points="2077.95,1.36507,2400,1.36531,2400,526.058,2077.95,526.059"/>
+    <polygon id="P3.91 A 2" points="841.031,491.981,841.044,0.0248089,1087.02,0.0313196,1087.01,491.987"/>
+    <polygon id="P3.91 B 2" points="1087.01,491.987,1087.02,0.031488,1333,0.0379213,1332.99,491.993"/>
+    <polygon id="P3.91 C 2" points="1332.99,491.993,1333,0.0378394,1578.98,0.0442727,1578.96,492"/>
+    <polygon id="Center16:9 2" points="922.233,1.36539,1477.77,1.36539,1477.77,313.853,922.233,313.853"/>
+  </g>
+</svg>
